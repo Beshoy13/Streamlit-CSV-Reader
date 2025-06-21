@@ -20,4 +20,4 @@ A simple and interactive web app to upload CSV files, explore data, and visualiz
 
 ```bash
 pip install -r requirements.txt
-streamlit run streamlit_vis.py
+streamlit run app.py
